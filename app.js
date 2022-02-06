@@ -85,7 +85,7 @@ const URL_LOGGING = false;
 	});
 
 	app.listen(port, () => {
-		console.log(`Carbonium is online!`);
+		console.log(`Carbonium is listening on the port!`);
 	});
 
 
