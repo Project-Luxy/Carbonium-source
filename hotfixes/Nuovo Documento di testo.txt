@@ -1,1 +1,0 @@
-+RegionDefinitions=(DisplayName="Carbonium", RegionId="EU", bEnabled=true, bVisible=true, bAutoAssignable=true)
