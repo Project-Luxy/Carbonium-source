@@ -3,7 +3,7 @@ CarboniumFN private server source code
 
 # Credits
 
-u can found credits on "Credits Folder"
+u can found credits on "Credits" Folder
 
 # installation
 
