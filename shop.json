@@ -1,5 +1,5 @@
 {
-  "refreshIntervalHrs": 8,
+  "refreshIntervalHrs": 1,
   "dailyPurchaseHrs": 24,
   "expiration": "2040-09-21T11:00:00.000Z",
   "storefronts": [
@@ -1616,7 +1616,7 @@
                   "sortPriority": 0,
                   "title": "BP Gift Token",
                   "shortDescription": "",
-                  "description": "Give a friend the Chapter 2, Season 8 Battle Pass! Your purchase includes:\r\n\r\n- A token allowing gifting of the Chapter 2, Season 8 Battle Pass to a friend of your choice.\r\n- A unique Gift Box for you to use when gifting items from the Battle Royale shop (unlocks only once).\r\n\r\nNote: In order to gift, you must have multi-factor authentication enabled on your account. You must also be Epic friends with the recipient for at least 48 hours before you can send them a gift.\r\n\r\nYou will only be able to gift five times within a 24 hour period. Any gifts that are purchased or received are NOT refundable. You can only gift one Battle Pass at a time.\r\n\r\nIf your intended recipient purchases the Battle Pass or subscribes to the Fortnite Crew before you complete your purchase, you can gift the Battle Pass to someone else. If you don’t gift the Battle Pass by the end of the season, it will be refunded as 950 V-Bucks in your account.",
+                  "description": "Give a friend the Chapter 3, Season 1 Battle Pass! Your purchase includes:\r\n\r\n- A token allowing gifting of the Chapter 2, Season 8 Battle Pass to a friend of your choice.\r\n- A unique Gift Box for you to use when gifting items from the Battle Royale shop (unlocks only once).\r\n\r\nNote: In order to gift, you must have multi-factor authentication enabled on your account. You must also be Epic friends with the recipient for at least 48 hours before you can send them a gift.\r\n\r\nYou will only be able to gift five times within a 24 hour period. Any gifts that are purchased or received are NOT refundable. You can only gift one Battle Pass at a time.\r\n\r\nIf your intended recipient purchases the Battle Pass or subscribes to the Fortnite Crew before you complete your purchase, you can gift the Battle Pass to someone else. If you don’t gift the Battle Pass by the end of the season, it will be refunded as 950 V-Bucks in your account.",
                   "displayAssetPath": "",
                   "itemGrants": [
                       {
@@ -1676,7 +1676,7 @@
                   "sortPriority": 0,
                   "title": "BP Gift Token",
                   "shortDescription": "",
-                  "description": "Give a friend the Chapter 2, Season 5 Battle Pass! Your purchase includes:\r\n\r\n- A token allowing gifting of the Chapter 2, Season 5 Battle Pass to a friend of your choice.\r\n- A unique Gift Box for you to use when gifting items from the Battle Royale shop (unlocks only once).\r\n\r\nNote: In order to gift, you must have multi-factor authentication enabled on your account. You must also be Epic friends with the recipient for at least 48 hours before you can send them a gift.\r\n\r\nYou will only be able to gift five times within a 24 hour period. Any gifts that are purchased or received are NOT refundable. You can only gift one Battle Pass at a time.\r\n\r\nIf your intended recipient purchases the Battle Pass before you complete your purchase, you can gift the Battle Pass to someone else. If you don’t gift the Battle Pass by the end of the season, it will be refunded as 950 V-Bucks in your account.",
+                  "description": "Give a friend the Chapter 3, Season 1 Battle Pass! Your purchase includes:\r\n\r\n- A token allowing gifting of the Chapter 2, Season 5 Battle Pass to a friend of your choice.\r\n- A unique Gift Box for you to use when gifting items from the Battle Royale shop (unlocks only once).\r\n\r\nNote: In order to gift, you must have multi-factor authentication enabled on your account. You must also be Epic friends with the recipient for at least 48 hours before you can send them a gift.\r\n\r\nYou will only be able to gift five times within a 24 hour period. Any gifts that are purchased or received are NOT refundable. You can only gift one Battle Pass at a time.\r\n\r\nIf your intended recipient purchases the Battle Pass before you complete your purchase, you can gift the Battle Pass to someone else. If you don’t gift the Battle Pass by the end of the season, it will be refunded as 950 V-Bucks in your account.",
                   "displayAssetPath": "",
                   "itemGrants": [
                       {
@@ -2756,7 +2756,7 @@
                   "catalogGroupPriority": 0
               },
               {
-                  "devName": "[VIRTUAL]1 x Sunbird, 1 x Sun Wings, 1 x Sunrise, 1 x Mezmer, 1 x Hypnotic, 1 x Axetec for -1 MtxCurrency",
+                  "devName": "[VIRTUAL]1 x Sus, 1 x Sun Wings, 1 x Sunrise, 1 x Mezmer, 1 x Hypnotic, 1 x Axetec for -1 MtxCurrency",
                   "offerId": "v2:/4509964a5d5ff20f7b26950bd27f97ee5a90efebacd65f5d92c5a9aa7d4e08c6",
                   "fulfillmentIds": [],
                   "dailyLimit": -1,
@@ -2780,7 +2780,7 @@
                               "discountedPrice": 1200,
                               "alreadyOwnedPriceReduction": 1200,
                               "item": {
-                                  "templateId": "AthenaCharacter:cid_359_athena_commando_f_aztec",
+                                  "templateId": "AthenaCharacter:cid_460_athena_commando_f_britebombersummer",
                                   "quantity": 1
                               }
                           },
@@ -2790,7 +2790,7 @@
                               "discountedPrice": 0,
                               "alreadyOwnedPriceReduction": 0,
                               "item": {
-                                  "templateId": "AthenaBackpack:bid_222_aztecfemale",
+                                  "templateId": "AthenaBackpack:bid_004_Blackknight",
                                   "quantity": 1
                               }
                           },
@@ -2800,7 +2800,7 @@
                               "discountedPrice": 800,
                               "alreadyOwnedPriceReduction": 800,
                               "item": {
-                                  "templateId": "AthenaGlider:glider_id_127_aztec",
+                                  "templateId": "AthenaGlider:Glider_Warthog",
                                   "quantity": 1
                               }
                           },
@@ -2810,7 +2810,7 @@
                               "discountedPrice": 1200,
                               "alreadyOwnedPriceReduction": 1200,
                               "item": {
-                                  "templateId": "AthenaCharacter:cid_358_athena_commando_m_aztec",
+                                  "templateId": "AthenaCharacter:cid_a_127_athena_commando_f_mechanicalengineersummer",
                                   "quantity": 1
                               }
                           },
@@ -2820,7 +2820,7 @@
                               "discountedPrice": 0,
                               "alreadyOwnedPriceReduction": 0,
                               "item": {
-                                  "templateId": "AthenaBackpack:bid_221_aztecmale",
+                                  "templateId": "AthenaBackpack:bid_001_BlueSquire",
                                   "quantity": 1
                               }
                           },
@@ -2830,14 +2830,14 @@
                               "discountedPrice": 800,
                               "alreadyOwnedPriceReduction": 800,
                               "item": {
-                                  "templateId": "AthenaPickaxe:pickaxe_id_170_aztec",
+                                  "templateId": "AthenaPickaxe:Pickaxe_ID_376_FNCS",
                                   "quantity": 1
                               }
                           }
                       ]
                   },
                   "meta": {
-                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Bundles_Aztec.DAv2_Bundles_Aztec",
+                      "NewDisplayAssetPath": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze",
                       "SectionId": "Featured",
                       "TileSize": "DoubleWide",
                       "AnalyticOfferGroupId": "4"
@@ -2857,7 +2857,7 @@
                   "metaInfo": [
                       {
                           "key": "NewDisplayAssetPath",
-                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_Bundles_Aztec.DAv2_Bundles_Aztec"
+                          "value": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze"
                       },
                       {
                           "key": "SectionId",
@@ -2872,30 +2872,30 @@
                           "value": "4"
                       }
                   ],
-                  "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_AztecBundle.DA_Featured_AztecBundle",
+                  "displayAssetPath": "/Game/Items/CardPacks/CardPack_Bronze.CardPack_Bronze",
                   "itemGrants": [
                       {
-                          "templateId": "AthenaCharacter:cid_359_athena_commando_f_aztec",
+                          "templateId": "AthenaCharacter:cid_a_127_athena_commando_f_mechanicalengineersummer",
                           "quantity": 1
                       },
                       {
-                          "templateId": "AthenaBackpack:bid_222_aztecfemale",
+                          "templateId": "AthenaBackpack:bid_004_Blackknight",
                           "quantity": 1
                       },
                       {
-                          "templateId": "AthenaGlider:glider_id_127_aztec",
+                          "templateId": "AthenaGlider:Glider_Warthog",
                           "quantity": 1
                       },
                       {
-                          "templateId": "AthenaCharacter:cid_358_athena_commando_m_aztec",
+                          "templateId": "AthenaCharacter:cid_039_athena_commando_f_disco",
                           "quantity": 1
                       },
                       {
-                          "templateId": "AthenaBackpack:bid_221_aztecmale",
+                          "templateId": "AthenaBackpack:bid_001_BlueSquire",
                           "quantity": 1
                       },
                       {
-                          "templateId": "AthenaPickaxe:pickaxe_id_170_aztec",
+                          "templateId": "AthenaPickaxe:Pickaxe_ID_376_FNCS",
                           "quantity": 1
                       }
                   ],
@@ -3143,7 +3143,7 @@
                       }
                   ],
                   "meta": {
-                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_170_Aztec.DAv2_Pickaxe_ID_170_Aztec",
+                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_376_FNCS.DAv2_Pickaxe_ID_376_FNCS",
                       "SectionId": "Featured",
                       "TileSize": "Small",
                       "AnalyticOfferGroupId": "4"
@@ -3154,7 +3154,7 @@
                   "requirements": [
                       {
                           "requirementType": "DenyOnItemOwnership",
-                          "requiredId": "AthenaPickaxe:pickaxe_id_170_aztec",
+                          "requiredId": "AthenaPickaxe:Pickaxe_ID_376_FNCS",
                           "minQuantity": 1
                       }
                   ],
@@ -3169,7 +3169,7 @@
                   "metaInfo": [
                       {
                           "key": "NewDisplayAssetPath",
-                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_170_Aztec.DAv2_Pickaxe_ID_170_Aztec"
+                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_376_FNCS.DAv2_Pickaxe_ID_376_FNCS"
                       },
                       {
                           "key": "SectionId",
@@ -3184,10 +3184,10 @@
                           "value": "4"
                       }
                   ],
-                  "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_170_Aztec.DA_Featured_Pickaxe_ID_170_Aztec",
+                  "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_376_FNCS.DA_Featured_Pickaxe_ID_376_FNCS",
                   "itemGrants": [
                       {
-                          "templateId": "AthenaPickaxe:pickaxe_id_170_aztec",
+                          "templateId": "AthenaPickaxe:Pickaxe_ID_376_FNCS",
                           "quantity": 1
                       }
                   ],
@@ -4875,15 +4875,15 @@
                       {
                           "currencyType": "MtxCurrency",
                           "currencySubType": "",
-                          "regularPrice": 1500,
-                          "dynamicRegularPrice": 1500,
-                          "finalPrice": 1500,
+                          "regularPrice": 2000,
+                          "dynamicRegularPrice": 2000,
+                          "finalPrice": 2000,
                           "saleExpiration": "9999-12-31T23:59:59.999Z",
-                          "basePrice": 1500
+                          "basePrice": 2000
                       }
                   ],
                   "meta": {
-                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_038_M_Disco.DAv2_CID_038_M_Disco",
+                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_cid_039_athena_commando_f_disco",
                       "SectionId": "Daily",
                       "TileSize": "Normal",
                       "AnalyticOfferGroupId": "5"
@@ -4894,7 +4894,7 @@
                   "requirements": [
                       {
                           "requirementType": "DenyOnItemOwnership",
-                          "requiredId": "AthenaCharacter:cid_038_athena_commando_m_disco",
+                          "requiredId": "AthenaCharacter:cid_039_athena_commando_f_disco",
                           "minQuantity": 1
                       },
                       {
@@ -4914,7 +4914,7 @@
                   "metaInfo": [
                       {
                           "key": "NewDisplayAssetPath",
-                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_038_M_Disco.DAv2_CID_038_M_Disco"
+                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_cid_039_athena_commando_f_disco"
                       },
                       {
                           "key": "SectionId",
@@ -4929,10 +4929,10 @@
                           "value": "5"
                       }
                   ],
-                  "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_A_cid_038_athena_commando_m_disco.DA_Featured_A_cid_038_athena_commando_m_disco",
+                  "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_A_cid_039_athena_commando_f_disco.DA_Featured_A_cid_039_athena_commando_f_disco",
                   "itemGrants": [
                       {
-                          "templateId": "AthenaCharacter:cid_038_athena_commando_m_disco",
+                          "templateId": "AthenaCharacter:cid_039_athena_commando_f_disco",
                           "quantity": 1
                       },
                       {
@@ -4958,15 +4958,15 @@
                       {
                           "currencyType": "MtxCurrency",
                           "currencySubType": "",
-                          "regularPrice": 800,
-                          "dynamicRegularPrice": 800,
-                          "finalPrice": 800,
+                          "regularPrice": 843,
+                          "dynamicRegularPrice": 843,
+                          "finalPrice": 843,
                           "saleExpiration": "9999-12-31T23:59:59.999Z",
-                          "basePrice": 800
+                          "basePrice": 843
                       }
                   ],
                   "meta": {
-                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_414_M_MilitaryFashion.DAv2_CID_414_M_MilitaryFashion",
+                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_367_Athena_Commando_F_Tropical.DAv2_CID_367_Athena_Commando_F_Tropical",
                       "SectionId": "Daily",
                       "TileSize": "Normal",
                       "AnalyticOfferGroupId": "6"
@@ -4977,7 +4977,7 @@
                   "requirements": [
                       {
                           "requirementType": "DenyOnItemOwnership",
-                          "requiredId": "AthenaCharacter:cid_414_athena_commando_f_militaryfashion",
+                          "requiredId": "AthenaCharacter:CID_367_Athena_Commando_F_Tropical",
                           "minQuantity": 1
                       }
                   ],
@@ -4992,7 +4992,7 @@
                   "metaInfo": [
                       {
                           "key": "NewDisplayAssetPath",
-                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_414_M_MilitaryFashion.DAv2_CID_414_M_MilitaryFashion"
+                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_367_Athena_Commando_F_Tropical.DAv2_CID_367_Athena_Commando_F_Tropical"
                       },
                       {
                           "key": "SectionId",
@@ -5010,7 +5010,7 @@
                   "displayAssetPath": "None",
                   "itemGrants": [
                       {
-                          "templateId": "AthenaCharacter:cid_414_athena_commando_f_militaryfashion",
+                          "templateId": "AthenaCharacter:CID_367_Athena_Commando_F_Tropical",
                           "quantity": 1
                       }
                   ],
@@ -5019,7 +5019,7 @@
                   "catalogGroupPriority": 0
               },
               {
-                  "devName": "[VIRTUAL]1 x Old School  for 500 MtxCurrency",
+                  "devName": "[VIRTUAL]1 x Scenario for 500 MtxCurrency",
                   "offerId": "v2:/e82333aef1d166517d0d7c1f1c5dc299528ee9052fbba544872bf4fff027a9d5",
                   "fulfillmentIds": [],
                   "dailyLimit": -1,
@@ -5032,15 +5032,15 @@
                       {
                           "currencyType": "MtxCurrency",
                           "currencySubType": "",
-                          "regularPrice": 500,
-                          "dynamicRegularPrice": 500,
-                          "finalPrice": 500,
+                          "regularPrice": 9999,
+                          "dynamicRegularPrice": 999,
+                          "finalPrice": 9999,
                           "saleExpiration": "9999-12-31T23:59:59.999Z",
-                          "basePrice": 500
+                          "basePrice": 9999
                       }
                   ],
                   "meta": {
-                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_EID_RunningMan.DAv2_EID_RunningMan",
+                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_EID_kpopdance03.DAv2_EID_kpopdance03",
                       "SectionId": "Daily",
                       "TileSize": "Small",
                       "AnalyticOfferGroupId": "8"
@@ -5051,7 +5051,7 @@
                   "requirements": [
                       {
                           "requirementType": "DenyOnItemOwnership",
-                          "requiredId": "AthenaDance:eid_og_runningman",
+                          "requiredId": "AthenaDance:eid_kpopdance03",
                           "minQuantity": 1
                       }
                   ],
@@ -5066,7 +5066,7 @@
                   "metaInfo": [
                       {
                           "key": "NewDisplayAssetPath",
-                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_EID_RunningMan.DAv2_EID_RunningMan"
+                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_EID_kpopdance03.DAv2_EID_kpopdance03"
                       },
                       {
                           "key": "SectionId",
@@ -5083,7 +5083,7 @@
                   ],
                   "itemGrants": [
                       {
-                          "templateId": "AthenaDance:eid_og_runningman",
+                          "templateId": "AthenaDance:eid_kpopdance03",
                           "quantity": 1
                       }
                   ],
@@ -5113,7 +5113,7 @@
                       }
                   ],
                   "meta": {
-                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_EID_HilowWave.DAv2_EID_HilowWave",
+                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_EID_NeverGonna.DAv2_EID_NeverGonna",
                       "SectionId": "Daily",
                       "TileSize": "Small",
                       "AnalyticOfferGroupId": "9"
@@ -5124,7 +5124,7 @@
                   "requirements": [
                       {
                           "requirementType": "DenyOnItemOwnership",
-                          "requiredId": "AthenaDance:eid_hilowwave",
+                          "requiredId": "AthenaDance:EID_NeverGonna",
                           "minQuantity": 1
                       }
                   ],
@@ -5139,7 +5139,7 @@
                   "metaInfo": [
                       {
                           "key": "NewDisplayAssetPath",
-                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_EID_HilowWave.DAv2_EID_HilowWave"
+                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_EID_NeverGonna.DAv2_EID_NeverGonna"
                       },
                       {
                           "key": "SectionId",
@@ -5156,7 +5156,7 @@
                   ],
                   "itemGrants": [
                       {
-                          "templateId": "AthenaDance:eid_hilowwave",
+                          "templateId": "AthenaDance:EID_NeverGonna",
                           "quantity": 1
                       }
                   ],
@@ -5178,15 +5178,15 @@
                       {
                           "currencyType": "MtxCurrency",
                           "currencySubType": "",
-                          "regularPrice": 200,
-                          "dynamicRegularPrice": 200,
-                          "finalPrice": 200,
+                          "regularPrice": 1,
+                          "dynamicRegularPrice": 1,
+                          "finalPrice": 1,
                           "saleExpiration": "9999-12-31T23:59:59.999Z",
-                          "basePrice": 200
+                          "basePrice": 1
                       }
                   ],
                   "meta": {
-                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_EID_Applause.DAv2_EID_Applause",
+                      "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_EID_PumpkinDance.DAv2_EID_PumpkinDance",
                       "SectionId": "Daily",
                       "TileSize": "Small",
                       "AnalyticOfferGroupId": "7",
@@ -5198,7 +5198,7 @@
                   "requirements": [
                       {
                           "requirementType": "DenyOnItemOwnership",
-                          "requiredId": "AthenaDance:eid_applause",
+                          "requiredId": "AthenaDance:EID_PumpkinDance",
                           "minQuantity": 1
                       }
                   ],
@@ -5213,7 +5213,7 @@
                   "metaInfo": [
                       {
                           "key": "NewDisplayAssetPath",
-                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_EID_Applause.DAv2_EID_Applause"
+                          "value": "/Game/Catalog/NewDisplayAssets/DAv2_EID_PumpkinDance.DAv2_EID_PumpkinDance"
                       },
                       {
                           "key": "SectionId",
@@ -5234,7 +5234,7 @@
                   ],
                   "itemGrants": [
                       {
-                          "templateId": "AthenaDance:eid_applause",
+                          "templateId": "AthenaDance:EID_PumpkinDance",
                           "quantity": 1
                       }
                   ],
