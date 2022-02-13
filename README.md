@@ -15,3 +15,6 @@ u can found credits on "Credits" Folder
 - then run.bat
 
 - enjoy.
+
+# PLague
+the real maintainer of this server is PlagueCreator#0001 
