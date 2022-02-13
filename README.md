@@ -16,6 +16,9 @@ u can found credits on "Credits" Folder
 
 - enjoy.
 
-# PLague
+# Plague
 the current maintainer of this server is PlagueCreator#0001 
 https://github.com/PlagueCreator
+
+part of the server is written in Italian (shit language)
+not in english
