@@ -63,7 +63,7 @@ module.exports = (app, port) => {
                             "hidden": false,
                             "_type": "CommonUI Emergency Notice Base",
                             "title": "Carbonium FN",
-                            "body": "Ti fanno male le ovaie?\r\nNessun problema.. ti scopo e passa il dolore\r\nCarbonium made by PlagueCreator#0001\r\nVersione 1.0.3 (moddata)",
+                            "body": "IDK",
                         }
                     ]
                 },
@@ -82,7 +82,7 @@ module.exports = (app, port) => {
                         "tabTitleOverride": "Carbonium",
                         "_type": "CommonUI Simple Message MOTD",
                         "title": "Carbonium",
-                        "body": "Meglio di EZFN aprovvato da 9 utenti su 10",
+                        "body": "Carbonium",
                         "videoLoop": false,
                         "videoStreamingEnabled": false,
                         "sortingPriority": 0,
@@ -91,7 +91,7 @@ module.exports = (app, port) => {
                         "videoFullscreen": false,
                         "spotlight": false,
                         "websiteURL": "https://www.youtube.com/watch?v=iik25wqIuFo",
-                        "websiteButtonText": "Foto ragazze hot 🌶️🥀"
+                        "websiteButtonText": "YES"
                     }]
                 },
                 "jcr:isCheckedOut": true,
