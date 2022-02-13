@@ -17,5 +17,5 @@ u can found credits on "Credits" Folder
 - enjoy.
 
 # PLague
-the real maintainer of this server is PlagueCreator#0001 
+the current maintainer of this server is PlagueCreator#0001 
 https://github.com/PlagueCreator
