@@ -1,6 +1,6 @@
 {
   "name": "Carbonium",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "A Fortnite private server",
   "main": "app.js",
   "dependencies": {
@@ -27,7 +27,7 @@
     "url": ""
   },
   "author": "Luxy and plague-creator",
-  "license": "MIT",
+  "license": "NONE",
   "bugs": {
     "url": ""
   },
